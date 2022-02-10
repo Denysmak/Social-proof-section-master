@@ -33,11 +33,13 @@ text-align: center;
 margin-top: 80px;
 }
 .principal{
-
+width: 90%;
 text-align: center;
 line-height: 25px;
 margin-top: 30px;
 color:  hsl(303, 10%, 53%);
+margin-left: auto;
+margin-right: auto;
 }
 .img{
 
@@ -86,6 +88,7 @@ font-size: 0.9rem;
 line-height: 25px;
 margin-left: 30px;
 margin-bottom: 30px;
+margin-right: 30px;
 }
 .name{
 
